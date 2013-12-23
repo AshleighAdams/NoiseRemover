@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2857B73E-F847-4B02-9238-064979017E93}") = "NoiseRemover", "NoiseRemover\NoiseRemover.cproj", "{EBBCEA31-568A-4F85-9EEA-649732161FF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBBCEA31-568A-4F85-9EEA-649732161FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBBCEA31-568A-4F85-9EEA-649732161FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBBCEA31-568A-4F85-9EEA-649732161FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBBCEA31-568A-4F85-9EEA-649732161FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = NoiseRemover\NoiseRemover.cproj
+	EndGlobalSection
+EndGlobal
